@@ -11,7 +11,7 @@ title: Welcome
 
 #### The show's theme is Justice and Mercy, based on Micah 6:8: Live Justly, Love Mercy, and Walk Humbly with Your God, and is open to children age five-16. 
 
-##### Registration will be open online March 15-28, and show dates are **April 12-20**. 
+##### Registration will be open online **March 15-28**, and show dates are **April 12-20**. 
 
 * * *
 
