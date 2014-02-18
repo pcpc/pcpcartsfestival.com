@@ -18,3 +18,13 @@ title: Welcome
 ##### View show rules and details [**here**](http://pcpc.org/workspace/uploads/files/2014-jr.-artist-show-rules-52dd4bd247289.pdf). 
 
 * * *
+
+#### Previous Featured Articles on the Arts Festival at PCPC
+
+- [Cultural Stewardship: Art as Witness (February 2014)](http://static.pcpc.org/articles/witness/201402_witness.pdf)
+- [Symposium and the bus tour inaugurate the 2013 Arts Festival (November 2013)](http://static.pcpc.org/articles/witness/201311_witness.pdf)
+- [Seeing the Potter's hands at work (May 2013)](http://static.pcpc.org/articles/witness/201305_witness.pdf)
+- [The Call to Artists (May 2012)](http://static.pcpc.org/articles/witness/201205_witness.pdf)
+- [Art exihibition illustrates the truth and beauty of Christ (August 2009)](http://static.pcpc.org/articles/witness/200908_witness.pdf)
+
+* * *
