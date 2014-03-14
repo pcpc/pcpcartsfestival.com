@@ -1,5 +1,6 @@
 $(document).foundation();
 
+/* dates below */
 $( document ).ready(function() {
   var current = new Date();
   var regstarts  = new Date("March 14, 2014 00:00:00")
