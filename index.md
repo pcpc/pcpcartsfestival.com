@@ -14,7 +14,7 @@ title: Welcome
 ##### Registration will be open online **March 15-28**, and show dates are **April 12-20**. 
 
 <div id="registrationlink" style="display:none">
-    <p><a href="https://register.pcpc.org/default.aspx?page=3061&eventId=1506">REGISTER NOW HERE</a></p>
+    <p><a href="https://register.pcpc.org/default.aspx?page=3061&eventId=1506" class="button alert">REGISTER NOW HERE</a></p>
 </div>
 
 * * *
